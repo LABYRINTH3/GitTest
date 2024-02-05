@@ -15,16 +15,10 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/LABYRINTH3/GitTest.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd your-repository
-    ```
-
-3. Run the code using your preferred method.
+2. Run the code using your preferred method.
 
 
 ## License
