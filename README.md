@@ -19,8 +19,3 @@ To get started with this project, follow these steps:
     ```
 
 2. Run the code using your preferred method.
-
-
-## License
-
-This project is licensed under MIT License.
